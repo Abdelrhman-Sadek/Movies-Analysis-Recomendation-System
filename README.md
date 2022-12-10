@@ -31,11 +31,11 @@ Contry Movie prdoctions Over the years:
 Highest vote counts movies:
 ![image](https://user-images.githubusercontent.com/94745919/206841278-032f3e15-2869-4c28-bf8e-d491237c3f25.png)
 <br/>
-Now lets see th badget ranges and what is the most frequent one for a budget:
-![image](https://user-images.githubusercontent.com/94745919/206841408-c9343be9-3390-45e7-8e15-f76dae656c8e.png)
-<br/>
 Highest 20 Movie in popularity:
 ![image](https://user-images.githubusercontent.com/94745919/206841582-1c434da5-f6c0-40b0-a9c1-18583656ea65.png)
+<br/>
+Now lets see th badget ranges and what is the most frequent one for a budget:
+![image](https://user-images.githubusercontent.com/94745919/206841408-c9343be9-3390-45e7-8e15-f76dae656c8e.png)
 <br/>
 the relationship between the buget and revenue:
 ![image](https://user-images.githubusercontent.com/94745919/206841707-9d12bcbc-8380-4ef9-b9b9-176c71229aae.png)**
