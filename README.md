@@ -16,15 +16,32 @@ we have 2 datasets:
 <br/>
 the goal is to do movies analysis then give and give information about the movie then give to recommendation to simular Movies
 ## Analysis Results:
+the Analysis was about:
+<br/>
 **Movie Genra listing form the highest to the lowest:
 ![image](https://user-images.githubusercontent.com/94745919/206838008-08e32634-dfda-4e80-b7f9-30d0411c9ff3.png)
 <br/>
 All Movies have a Keyword that specifies or give a hint about what is the movie is talking about or what is the story its telling 
 that is the most frequent Keywords:
-<![newplot (1)](https://user-images.githubusercontent.com/94745919/206839330-3caf8966-627e-406f-87d7-b5bd0e4e322a.png)
+![image](https://user-images.githubusercontent.com/94745919/206839381-efc3e44e-d3bc-445a-8a5d-695449d5e57b.png)
 br/>
 ![Uploading newplot (1).png…]()
 <br/>
 <br/>
 Contry Movie prdoctions Over the years:
-![image](https://user-images.githubusercontent.com/94745919/206838425-a5b091bc-69ca-4dc8-8903-8ccc3025f7e0.png)**
+<![newplot (1)](https://user-images.githubusercontent.com/94745919/206839330-3caf8966-627e-406f-87d7-b5bd0e4e322a.png)
+<br/>
+Highest vote counts movies:
+![image](https://user-images.githubusercontent.com/94745919/206841278-032f3e15-2869-4c28-bf8e-d491237c3f25.png)
+<br/>
+Now lets see th badget ranges and what is the most frequent one for a budget:
+![image](https://user-images.githubusercontent.com/94745919/206841408-c9343be9-3390-45e7-8e15-f76dae656c8e.png)
+<br/>
+Highest 20 Movie in popularity:
+![image](https://user-images.githubusercontent.com/94745919/206841582-1c434da5-f6c0-40b0-a9c1-18583656ea65.png)
+<br/>
+the relationship between the buget and revenue:
+![image](https://user-images.githubusercontent.com/94745919/206841707-9d12bcbc-8380-4ef9-b9b9-176c71229aae.png)**
+
+
+
