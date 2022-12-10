@@ -24,9 +24,6 @@ the Analysis was about:
 All Movies have a Keyword that specifies or give a hint about what is the movie is talking about or what is the story its telling 
 that is the most frequent Keywords:
 ![image](https://user-images.githubusercontent.com/94745919/206839381-efc3e44e-d3bc-445a-8a5d-695449d5e57b.png)
-br/>
-![Uploading newplot (1).png…]()
-<br/>
 <br/>
 Contry Movie prdoctions Over the years:
 <![newplot (1)](https://user-images.githubusercontent.com/94745919/206839330-3caf8966-627e-406f-87d7-b5bd0e4e322a.png)
