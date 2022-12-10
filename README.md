@@ -39,6 +39,9 @@ Now lets see th badget ranges and what is the most frequent one for a budget:
 <br/>
 the relationship between the buget and revenue:
 ![image](https://user-images.githubusercontent.com/94745919/206841707-9d12bcbc-8380-4ef9-b9b9-176c71229aae.png)**
-
+<br/>
+<br/>
+## Recomendations Results:
+![Screenshot (478)](https://user-images.githubusercontent.com/94745919/206842299-96dab988-03d7-42a7-8698-43ed04271b85.png)
 
 
