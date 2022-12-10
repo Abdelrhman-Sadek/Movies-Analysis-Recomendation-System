@@ -2,7 +2,6 @@
 ![Untitled jpg](https://user-images.githubusercontent.com/94745919/206186895-60b9ea24-23c2-4ab2-b2a6-892218f993dd.png)
 Analysis &amp; Recommendation 
 ## Description:
-<br/>
 Recommendation systems are among the most popular applications of data science. They are used to predict the Rating or Preference that a user would give to an item.
 <br/>
 Almost every major company has applied them in some form or the other: Amazon uses it to suggest products to customers, YouTube uses it to decide which video to play next on auto play, and Facebook uses it to recommend pages to like and people to follow.
