@@ -16,5 +16,6 @@ we have 2 datasets:
 <br/>
 the goal is to do movies analysis then give and give information about the movie then give to recommendation to simular Movies
 ## Analysis Results:
-![image](https://user-images.githubusercontent.com/94745919/206187314-69b08bb5-8aa1-4407-9389-a94185cae136.png)
-
+**Movie Genra listing form the highest to the lowest
+![image](https://user-images.githubusercontent.com/94745919/206838008-08e32634-dfda-4e80-b7f9-30d0411c9ff3.png)
+**
