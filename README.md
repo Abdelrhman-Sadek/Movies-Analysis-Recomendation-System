@@ -1,8 +1,7 @@
 # Movies-Analysis-Recomendation-System
 Analysis &amp; Recommendation 
-
-## Description:
 ![Untitled jpg](https://user-images.githubusercontent.com/94745919/206186895-60b9ea24-23c2-4ab2-b2a6-892218f993dd.png)
+## Description:
 <br/>
 Recommendation systems are among the most popular applications of data science. They are used to predict the Rating or Preference that a user would give to an item.
 <br/>
@@ -25,7 +24,7 @@ All Movies have a Keyword that specifies or give a hint about what is the movie 
 that is the most frequent Keywords:
 ![image](https://user-images.githubusercontent.com/94745919/206839381-efc3e44e-d3bc-445a-8a5d-695449d5e57b.png)
 <br/>
-Contry Movie prdoctions Over the years:
+Country and the movie count prodictions:
 <![newplot (1)](https://user-images.githubusercontent.com/94745919/206839330-3caf8966-627e-406f-87d7-b5bd0e4e322a.png)
 <br/>
 Highest vote counts movies:
@@ -34,10 +33,10 @@ Highest vote counts movies:
 Highest 20 Movie in popularity:
 ![image](https://user-images.githubusercontent.com/94745919/206841582-1c434da5-f6c0-40b0-a9c1-18583656ea65.png)
 <br/>
-Now lets see th badget ranges and what is the most frequent one for a budget:
+Budget ranges and what is the most frequent one for a budget:
 ![image](https://user-images.githubusercontent.com/94745919/206841408-c9343be9-3390-45e7-8e15-f76dae656c8e.png)
 <br/>
-the relationship between the buget and revenue:
+The relationship between the buget and revenue:
 ![image](https://user-images.githubusercontent.com/94745919/206841707-9d12bcbc-8380-4ef9-b9b9-176c71229aae.png)**
 <br/>
 <br/>
