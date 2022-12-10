@@ -16,5 +16,13 @@ we have 2 datasets:
 <br/>
 the goal is to do movies analysis then give and give information about the movie then give to recommendation to simular Movies
 ## Analysis Results:
-**Movie Genra listing form the highest to the lowest
-![image](https://user-images.githubusercontent.com/94745919/206838008-08e32634-dfda-4e80-b7f9-30d0411c9ff3.png)**
+**Movie Genra listing form the highest to the lowest:
+![image](https://user-images.githubusercontent.com/94745919/206838008-08e32634-dfda-4e80-b7f9-30d0411c9ff3.png)
+<br/>
+All Movies have a Keyword that specifies or give a hint about what is the movie is talking about or what is the story its telling 
+<br/>
+that is the most frequent Keywords:
+![image](https://user-images.githubusercontent.com/94745919/206838343-3fcb0460-8895-4caa-b90e-1d8503f93360.png)
+<br/>
+Contry Movie prdoctions Over the years:
+![image](https://user-images.githubusercontent.com/94745919/206838425-a5b091bc-69ca-4dc8-8903-8ccc3025f7e0.png)
