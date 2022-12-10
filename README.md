@@ -1,7 +1,7 @@
 # Movies-Analysis-Recomendation-System
 Analysis &amp; Recommendation 
-![Untitled jpg](https://user-images.githubusercontent.com/94745919/206186895-60b9ea24-23c2-4ab2-b2a6-892218f993dd.png)
 ## Description:
+![Untitled jpg](https://user-images.githubusercontent.com/94745919/206186895-60b9ea24-23c2-4ab2-b2a6-892218f993dd.png)
 <br/>
 Recommendation systems are among the most popular applications of data science. They are used to predict the Rating or Preference that a user would give to an item.
 <br/>
